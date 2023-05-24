@@ -17,6 +17,10 @@ oc apply -f singapore-cluster-policy.yaml
 Checkout https://github.com/maistra/istio.git
 
 ```
+git clone https://github.com/maistra/istio.git
+```
+
+```
 cd ~/istio/samples/federation/base/
 ```
 ```
